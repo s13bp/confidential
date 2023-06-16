@@ -29556,7 +29556,7 @@ var _defaults = extend(defaults, {}),
                     scrollanchor: "home"
                 }, {
                     id: "zeroOs",
-                    text: "Zero OS",
+                    text: "About Us",
                     scrollanchor: "zero-os-hero",
                     subsections: ["EXCLUSIVE", "RARE", "SECURE", "VERSATILE", "AUTHENTIC"]
                 }, {
